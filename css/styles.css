@@ -13,19 +13,43 @@ header {
     text-align: center;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .project-tile {
-    border: 1px solid #ddd;
-    margin: 1rem;
-    padding: 1rem;
     background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+
+.project-tile:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
 }
 
 .project-tile img {
     max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
 }
 
 .project-tile h2 {
-    margin-top: 0.5rem;
+    margin: 1rem 0;
+    font-size: 1.5rem;
+}
+
+.project-tile p {
+    padding: 0 1rem 1rem;
+    color: #555;
 }
 
 footer {
