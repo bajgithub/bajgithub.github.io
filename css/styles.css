@@ -1,5 +1,5 @@
 body {
-    font-family: 'Georgia', Georgia;
+    font-family: 'Garamond', serif;
     background-color: #121212;
     color: #e0e0e0;
     margin: 0;
@@ -14,6 +14,7 @@ header {
     border-bottom: 2px solid #333;
     text-transform: uppercase;
     letter-spacing: 2px;
+    font-family: 'Helvetica', sans-serif;
 }
 
 .grid-container {
@@ -33,6 +34,7 @@ header {
     transition: background-color 0.3s, box-shadow 0.3s;
     box-shadow: 4px 4px 0px #444;
     color: #e0e0e0;
+    font-family: 'Garamond', serif;
 }
 
 .project-tile:hover {
@@ -48,6 +50,7 @@ header {
     border-bottom: 1px solid #444;
     padding-bottom: 0.5rem;
     color: #ffffff;
+    font-family: 'Helvetica', sans-serif;
 }
 
 .project-tile p {
@@ -65,4 +68,5 @@ footer {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 2rem;
+    font-family: 'Helvetica', sans-serif;
 }
