@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.project-tile {
+    border: 1px solid #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #fff;
+}
+
+.project-tile img {
+    max-width: 100%;
+}
+
+.project-tile h2 {
+    margin-top: 0.5rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: #fff;
+}
