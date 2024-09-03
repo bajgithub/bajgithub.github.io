@@ -1,5 +1,196 @@
+@font-face {
+    font-family: 'Univers LT Std 39 Thin Ultra Condensed';
+    src: url('../fonts/UniversLTStd-ThinUltraCn.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 45 Light';
+    src: url('../fonts/UniversLTStd-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 45 Light Oblique';
+    src: url('../fonts/UniversLTStd-LightObl.otf') format('opentype');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 47 Light Condensed';
+    src: url('../fonts/UniversLTStd-LightCn.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 47 Light Condensed Oblique';
+    src: url('../fonts/UniversLTStd-LightCnObl.otf') format('opentype');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 49 Light Ultra Condensed';
+    src: url('../fonts/UniversLTStd-LightUltraCn.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 53 Extended';
+    src: url('../fonts/UniversLTStd-Ex.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 53 Extended Oblique';
+    src: url('../fonts/UniversLTStd-ExObl.otf') format('opentype');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 55 Oblique';
+    src: url('../fonts/UniversLTStd-Obl.otf') format('opentype');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 55 Roman';
+    src: url('../fonts/UniversLTStd.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 57 Condensed';
+    src: url('../fonts/UniversLTStd-Cn.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 57 Condensed Oblique';
+    src: url('../fonts/UniversLTStd-CnObl.otf') format('opentype');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 59 Ultra Condensed';
+    src: url('../fonts/UniversLTStd-UltraCn.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 63 Bold Extended';
+    src: url('../fonts/UniversLTStd-BoldEx.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 63 Bold Extended Oblique';
+    src: url('../fonts/UniversLTStd-BoldExObl.otf') format('opentype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 65 Bold';
+    src: url('../fonts/UniversLTStd-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 65 Bold Oblique';
+    src: url('../fonts/UniversLTStd-BoldObl.otf') format('opentype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 67 Bold Condensed';
+    src: url('../fonts/UniversLTStd-BoldCn.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 67 Bold Condensed Oblique';
+    src: url('../fonts/UniversLTStd-BoldCnObl.otf') format('opentype');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 73 Black Extended';
+    src: url('../fonts/UniversLTStd-BlackEx.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 73 Black Extended Oblique';
+    src: url('../fonts/UniversLTStd-BlackExObl.otf') format('opentype');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 75 Black';
+    src: url('../fonts/UniversLTStd-Black.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 75 Black Oblique';
+    src: url('../fonts/UniversLTStd-BlackObl.otf') format('opentype');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 85 Extra Black';
+    src: url('../fonts/UniversLTStd-XBlack.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 85 Extra Black Oblique';
+    src: url('../fonts/UniversLTStd-XBlackObl.otf') format('opentype');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 93 Extra Black Extended';
+    src: url('../fonts/UniversLTStd-XBlackEx.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 93 Extra Black Extended Oblique';
+    src: url('../fonts/UniversLTStd-XBlackExObl.otf') format('opentype');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+/* Rest of the CSS remains unchanged */
+
 body {
-    font-family: 'Univers LT Std 400', sans-serif;
+    font-family: 'Garamond', serif;
     background-color: #121212;
     color: #e0e0e0;
     margin: 0;
@@ -12,9 +203,9 @@ header {
     padding: 2rem 0;
     text-align: center;
     border-bottom: 2px solid #333;
-    text-transform: lowercase;
+    text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: 'Univers LT Std', monospace;
+    font-family: 'Univers LT Std 93 Extra Black Extended Oblique', sans-serif;
 }
 
 .grid-container {
@@ -34,7 +225,7 @@ header {
     transition: background-color 0.3s, box-shadow 0.3s;
     box-shadow: 4px 4px 0px #444;
     color: #e0e0e0;
-    font-family: 'Univers LT Std 400', monospace;
+    font-family: 'Garamond', serif;
 }
 
 .project-tile:hover {
@@ -50,7 +241,7 @@ header {
     border-bottom: 1px solid #444;
     padding-bottom: 0.5rem;
     color: #ffffff;
-    font-family: 'Univers LT Std 400', monospace;
+    font-family: 'Univers LT Std 55 Roman', sans-serif;
 }
 
 .project-tile p {
@@ -68,7 +259,7 @@ footer {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 2rem;
-    font-family: 'Univers LT Std 700', monospace;
+    font-family: 'Univers LT Std 55 Roman', sans-serif;
 }
 
 /* Styles for hyperlinks */
