@@ -14,7 +14,7 @@ header {
     border-bottom: 2px solid #333;
     text-transform: lowercase;
     letter-spacing: 2px;
-    font-family: 'Univers LT Std 700', monospace;
+    font-family: 'Univers LT Std', monospace;
 }
 
 .grid-container {
