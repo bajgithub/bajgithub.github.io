@@ -271,20 +271,3 @@ a:hover {
     text-decoration: none;    /* Ensure no underlining on hover */
     color: inherit;           /* Maintain the color on hover */
 }
-
-/* Font classes */
-.univers-55-roman {
-    font-family: 'Univers LT Std 55 Roman', sans-serif;
-}
-
-.univers-75-black {
-    font-family: 'Univers LT Std 75 Black', sans-serif;
-}
-
-.univers-85-extra-black {
-    font-family: 'Univers LT Std 85 Extra Black', sans-serif;
-}
-
-.univers-45-light {
-    font-family: 'Univers LT Std 45 Light', sans-serif;
-}
