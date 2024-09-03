@@ -34,7 +34,7 @@ header {
     transition: background-color 0.3s, box-shadow 0.3s;
     box-shadow: 4px 4px 0px #444;
     color: #e0e0e0;
-    font-family: 'Garamond', serif;
+    font-family: 'Univers LT Std 400', monospace;
 }
 
 .project-tile:hover {
@@ -50,7 +50,7 @@ header {
     border-bottom: 1px solid #444;
     padding-bottom: 0.5rem;
     color: #ffffff;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Univers LT Std 400', monospace;
 }
 
 .project-tile p {
@@ -68,7 +68,7 @@ footer {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 2rem;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Univers LT Std 700', monospace;
 }
 
 /* Styles for hyperlinks */
