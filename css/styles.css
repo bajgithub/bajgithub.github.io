@@ -70,3 +70,14 @@ footer {
     margin-top: 2rem;
     font-family: 'Space Mono', monospace;
 }
+
+/* Styles for hyperlinks */
+a {
+    color: inherit;           /* Inherit color from the parent element */
+    text-decoration: none;    /* Remove underlining */
+}
+
+a:hover {
+    text-decoration: none;    /* Ensure no underlining on hover */
+    color: inherit;           /* Maintain the color on hover */
+}
