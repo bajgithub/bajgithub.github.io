@@ -273,8 +273,20 @@ a:hover {
 }
 
 /* Font classes */
+.univers-45-light {
+    font-family: 'Univers LT Std 45 Light', sans-serif;
+}
+
+.univers-47-light-cn-obl {
+    font-family: 'Univers LT Std 47 Light Condensed Oblique', sans-serif;
+}
+
 .univers-55-roman {
     font-family: 'Univers LT Std 55 Roman', sans-serif;
+}
+
+.univers-73-black-ext {
+    font-family: 'Univers LT Std 73 Black Extended', sans-serif;
 }
 
 .univers-75-black {
@@ -285,10 +297,6 @@ a:hover {
     font-family: 'Univers LT Std 85 Extra Black', sans-serif;
 }
 
-.univers-45-light {
-    font-family: 'Univers LT Std 45 Light', sans-serif;
-}
-
-.univers-93-extra-black-ext-ob {
-    font-family: 'Univers LT Std 93 Extra Black Extended Oblique', sna-serif;
+.univers-93-extra-black-ext-obl {
+    font-family: 'Univers LT Std 93 Extra Black Extended Oblique', sans-serif;
 }
