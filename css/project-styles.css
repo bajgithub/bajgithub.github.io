@@ -1,3 +1,194 @@
+@font-face {
+    font-family: 'Univers LT Std 39 Thin Ultra Condensed';
+    src: url('../assets/fonts/UniversLTStd-ThinUltraCn.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 45 Light';
+    src: url('../assets/fonts/UniversLTStd-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 45 Light Oblique';
+    src: url('../assets/fonts/UniversLTStd-LightObl.woff2') format('woff2');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 47 Light Condensed';
+    src: url('../assets/fonts/UniversLTStd-LightCn.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 47 Light Condensed Oblique';
+    src: url('../assets/fonts/UniversLTStd-LightCnObl.woff2') format('woff2');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 49 Light Ultra Condensed';
+    src: url('../assets/fonts/UniversLTStd-LightUltraCn.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 53 Extended';
+    src: url('../assets/fonts/UniversLTStd-Ex.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 53 Extended Oblique';
+    src: url('../assets/fonts/UniversLTStd-ExObl.woff2') format('woff2');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 55 Oblique';
+    src: url('../assets/fonts/UniversLTStd-Obl.woff2') format('woff2');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 55 Roman';
+    src: url('../assets/fonts/UniversLTStd.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 57 Condensed';
+    src: url('../assets/fonts/UniversLTStd-Cn.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 57 Condensed Oblique';
+    src: url('../assets/fonts/UniversLTStd-CnObl.woff2') format('woff2');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 59 Ultra Condensed';
+    src: url('../assets/fonts/UniversLTStd-UltraCn.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 63 Bold Extended';
+    src: url('../assets/fonts/UniversLTStd-BoldEx.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 63 Bold Extended Oblique';
+    src: url('../assets/fonts/UniversLTStd-BoldExObl.woff2') format('woff2');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 65 Bold';
+    src: url('../assets/fonts/UniversLTStd-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 65 Bold Oblique';
+    src: url('../assets/fonts/UniversLTStd-BoldObl.woff2') format('woff2');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 67 Bold Condensed';
+    src: url('../assets/fonts/UniversLTStd-BoldCn.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 67 Bold Condensed Oblique';
+    src: url('../assets/fonts/UniversLTStd-BoldCnObl.woff2') format('woff2');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 73 Black Extended';
+    src: url('../assets/fonts/UniversLTStd-BlackEx.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 73 Black Extended Oblique';
+    src: url('../assets/fonts/UniversLTStd-BlackExObl.woff2') format('woff2');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 75 Black';
+    src: url('../assets/fonts/UniversLTStd-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 75 Black Oblique';
+    src: url('../assets/fonts/UniversLTStd-BlackObl.woff2') format('woff2');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 85 Extra Black';
+    src: url('../assets/fonts/UniversLTStd-XBlack.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 85 Extra Black Oblique';
+    src: url('../assets/fonts/UniversLTStd-XBlackObl.woff2') format('woff2');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 93 Extra Black Extended';
+    src: url('../assets/fonts/UniversLTStd-XBlackEx.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers LT Std 93 Extra Black Extended Oblique';
+    src: url('../assets/fonts/UniversLTStd-XBlackExObl.woff2') format('woff2');
+    font-weight: 900;
+    font-style: oblique;
+}
+
+
+
 body {
     font-family: 'Garamond', serif;
     background-color: #121212;
@@ -76,4 +267,34 @@ a {
 a:hover {
     text-decoration: none;
     color: inherit;
+}
+
+
+/* Font classes */
+.univers-45-light {
+    font-family: 'Univers LT Std 45 Light', sans-serif;
+}
+
+.univers-47-light-cn-obl {
+    font-family: 'Univers LT Std 47 Light Condensed Oblique', sans-serif;
+}
+
+.univers-55-roman {
+    font-family: 'Univers LT Std 55 Roman', sans-serif;
+}
+
+.univers-73-black-ext {
+    font-family: 'Univers LT Std 73 Black Extended', sans-serif;
+}
+
+.univers-75-black {
+    font-family: 'Univers LT Std 75 Black', sans-serif;
+}
+
+.univers-85-extra-black {
+    font-family: 'Univers LT Std 85 Extra Black', sans-serif;
+}
+
+.univers-93-extra-black-ext-obl {
+    font-family: 'Univers LT Std 93 Extra Black Extended Oblique', sans-serif;
 }
