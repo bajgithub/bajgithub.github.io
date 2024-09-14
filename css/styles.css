@@ -217,6 +217,12 @@ header {
     margin: 0 auto;
 }
 
+@media (min-width: 900px) {
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
 .project-tile {
     background-color: #1c1c1c;
     border: 2px solid #333;
