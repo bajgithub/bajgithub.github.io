@@ -190,7 +190,7 @@
 
 
 body {
-    font-family: 'Garamond', serif;
+    font-family: 'Univers LT Std 55 Roman', sans-serif;
     background-color: #121212;
     color: #e0e0e0;
     margin: 0;
@@ -205,13 +205,13 @@ header {
     border-bottom: 2px solid #333;
     text-transform: uppercase;
     letter-spacing: 2px;
-    font-family: 'Space Mono', monospace;
+    font-family: 'Univers LT Std 73 Black Extended', monospace;
 }
 
 nav a {
     color: #f1f1f1;
     text-decoration: none;
-    font-family: 'Space Mono', monospace;
+    font-family: 'univers-47-light-cn-obl', monospace;
     margin-top: 10px;
     display: inline-block;
 }
@@ -226,11 +226,11 @@ nav a:hover {
     padding: 2rem;
     max-width: 800px;
     margin: 2rem auto;
-    font-family: 'Garamond', serif;
+    font-family: 'Univers LT Std 73 Black Extended', serif;
 }
 
 .content-box h2 {
-    font-family: 'Space Mono', monospace;
+    font-family: 'Univers LT Std 73 Black Extended', monospace;
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -255,7 +255,7 @@ footer {
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-top: 2rem;
-    font-family: 'Space Mono', monospace;
+    font-family: 'univers-47-light-cn-obl', monospace;
 }
 
 /* Hyperlink styles */
